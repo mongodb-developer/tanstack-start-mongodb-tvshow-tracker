@@ -1,6 +1,6 @@
 # Movie/TV Show Tracker with TanStack Start and MongoDB
 
-A small full-stack app for tracking the TV shows you are watching. Search for
+A full-stack app for tracking the TV shows you are watching. Search for
 a show, add it to your list, and log episodes as you go. Show metadata comes
 from [TMDB](https://www.themoviedb.org/), and your list lives in MongoDB.
 
